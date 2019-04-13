@@ -1,4 +1,4 @@
-//209089960 chagit stupel
+
 
 #include <stdio.h>
 #include <sys/fcntl.h>
